@@ -4,15 +4,13 @@ date: 2023-04-14T09:03:20-08:00
 author: Filippo Strozzi
 slug: Creare-la-relata-notifica-in-automatico-da-INI-PEC
 draft: false
-showToc: true
+showToc: false
 TocOpen: false
 cover:
     image: "cover.jpeg"
 description: Test di descrizione
-tags: ["Comandi Rapidi", "Actions"]
+tags: ["Comandi Rapidi", “Pages”, “Relata di notifica a mezzo PEC”, “automazione"]
 ---
-
-# Creare la relata notifica in automatico da INI-PEC in Pages
 
 Nel video qui sotto ti faccio vedere come utilizzando _Comandi Rapidi_, un _modello di Pages_ ed un po' di _AppleScript_ per creare la relata di una notifica a mezzo PEC scaricando solo i file CSV da INI-PEC.
 
