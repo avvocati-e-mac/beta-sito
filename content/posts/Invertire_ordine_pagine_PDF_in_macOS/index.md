@@ -1,11 +1,11 @@
 ---
 title: "Invertire le pagine di un PDF"
-date: 2022-11-20T09:03:20-08:00
+date: 2022-12-12T09:03:20-08:00
 author: Filippo Strozzi
 slug: invertire-lordine-delle-pagine-di-un-pdf
 draft: false
 showToc: true
-TocOpen: false
+TocOpen: true
 cover:
     image: "cover.jpeg"
     # can also paste direct link from external site

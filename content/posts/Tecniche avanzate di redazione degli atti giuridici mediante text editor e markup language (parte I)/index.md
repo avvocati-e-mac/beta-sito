@@ -1,4 +1,15 @@
-# Tecniche avanzate di redazione degli atti giuridici mediante text editor e markup language (parte I)
+---
+title: "Tecniche avanzate di redazione degli atti giuridici mediante text editor e markup language (parte I)"
+date: 2023-02-13T09:03:20-08:00
+author: Filippo Strozzi
+slug: Tecniche-avanzate-di-redazione-degli-atti-giuridici-mediante-text-editor-e-markup-language-parte-I
+draft: false
+showToc: true
+TocOpen: false
+cover:
+    image: "cover.jpeg"
+tags: ["Comandi Rapidi", "Actions"]
+---
 
 > In questi mesi sono preso dalla preparazione ed esecuzione del [Corso PCT accreditato CNF fino agli inizi di Marzo](https://avvocati-e-mac.it/blog/2023/1/31/corso-pct-accreditato-ed-office-hour). Mi sono quindi reso conto che le pubblicazioni vere di articoli sul sito si stanno rarefacendo.
 > Ho quindi deciso di “riciclare” la tesina che ho svolto nel 2021 a conclusione del corso di perfezionamento “Coding for lawyers e legal tech. Programmazione per giuristi, intelligenza artificiale e blockchain per il professionista legale del futuro” coordinato dal [prof. Ziccardi](https://ziccardi.eu)
