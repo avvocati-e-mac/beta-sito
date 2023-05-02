@@ -1,0 +1,4 @@
+baseURL = 'http://test.avvocatiemac.it/'
+languageCode = 'it-it'
+theme = "PaperMod"
+title = 'Avvocati e Mac'
