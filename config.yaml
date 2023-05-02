@@ -1,0 +1,152 @@
+baseURL: "https://beta.avvocatiemac.it/"
+title: "Avvocati e Mac"
+  # Lingua predefinita
+defaultContentLanguage: it
+paginate: 20
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: "Avvocati e Mac"
+  description: "IMPARA A LAVORARE IN MODO EFFICIENTE CON MACOS ED IOS"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: ["Filippo Strozzi"]
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "2 January 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+  # Titolo ad inizio pagina
+  label:
+    text: "Avvocati e Mac"
+    icon: /apple-touch-icon.png
+    iconHeight: 65
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: ExampleSite
+    subtitle: "This is subtitle"
+    imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Benvenuto \U0001F44B"
+    Content: | 
+      su [Avvocati e Mac](https://www.avvocati-e-mac.it/). Mi chiamo **Filippo Strozzi** e sono il tuo ospite. Gli articoli che puoi leggere qui sotto sono il frutto della mia passione per  l'informatica, i prodotti Apple ed il loro utilizzo quotidiano per svolgere la mia attività di avvocato. Gli articoli, pur partendo dal mio punto di vista professionale, possono essere utili anche per chi  avvocato non è.
+
+      Buona lettura!
+
+      Per chi è interessato sto creando, pian piano, una serie di percorsi che riuniscono gli articoli di un medesimo argomento e permettono di fruirli non in ordine temporale ma di contenuto. Li trovi alla pagina dei [Percorsi di approfondimento]()
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/"
+    - name: stackoverflow
+      url: "https://stackoverflow.com"
+    - name: github
+      url: "https://github.com/"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: false  # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false  # hide on single page
+    responsiveImages: true
+
+  # for search
+  output:
+    - HTML
+    - RSS
+    - JSON # necessario
+
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: categories
+      name: Categorie
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: "Tags  "
+      url: /tags/
+      weight: 20
+    - identifier: example
+      name: RSS
+      url: rss
+      weight: 30
+    - identifier: Search
+      name: Search
+      url: search
+      weight: 40
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
