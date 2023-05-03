@@ -19,6 +19,8 @@ tags: ["Comandi Rapidi", "Actions"]
 
 In questo articolo, che spero rimarrà breve, ti parlerò di un problema abbastanza banale che mi si è parato davanti e che ho risolto in due differenti modi. In particolare ti spiegherò come è possibile invertire le pagine di un PDF sia con gli strumenti base di macOS che con un Comando Rapido con l’aiuto di una azione presa in prestito da [Actions](https://sindresorhus.com/actions).
 
+<!--more-->
+
 ## Il mio problema
 
 Come ti ho anticipato mi sono trovato con la necessità di invertire le pagine di un PDF che ho scansionato. È con rammarico che ho scoperto che il mio fido [ScanSnap iX500](https://www.fujitsu.com/global/products/computing/peripheral/scanners/scansnap/ix500/) (comprato nel lontano 2014) ha un problema ad una delle superfici di scansioni e mi lascia una visibile riga nera quando acquisisce le pagine. Essendo ormai uno scanner datato non ha senso che io cerchi di ripararlo e, me lo terrò così finché non deciderò di acquistare la sua versione più moderna.

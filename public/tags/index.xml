@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Avvocati e Mac</title>
+    <link>https://beta.avvocatiemac.it/tags/</link>
+    <description>Recent content in Tags on Avvocati e Mac</description>
+    <image>
+      <title>Avvocati e Mac</title>
+      <url>https://beta.avvocatiemac.it/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://beta.avvocatiemac.it/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 02 May 2023 21:02:00 +0000</lastBuildDate><atom:link href="https://beta.avvocatiemac.it/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>“automazione&#34;</title>
+      <link>https://beta.avvocatiemac.it/tags/automazione/</link>
+      <pubDate>Tue, 02 May 2023 21:02:00 +0000</pubDate>
+      
+      <guid>https://beta.avvocatiemac.it/tags/automazione/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Pages”</title>
+      <link>https://beta.avvocatiemac.it/tags/pages/</link>
+      <pubDate>Tue, 02 May 2023 21:02:00 +0000</pubDate>
+      
+      <guid>https://beta.avvocatiemac.it/tags/pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Relata di notifica a mezzo PEC”</title>
+      <link>https://beta.avvocatiemac.it/tags/relata-di-notifica-a-mezzo-pec/</link>
+      <pubDate>Tue, 02 May 2023 21:02:00 +0000</pubDate>
+      
+      <guid>https://beta.avvocatiemac.it/tags/relata-di-notifica-a-mezzo-pec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comandi Rapidi</title>
+      <link>https://beta.avvocatiemac.it/tags/comandi-rapidi/</link>
+      <pubDate>Tue, 02 May 2023 21:02:00 +0000</pubDate>
+      
+      <guid>https://beta.avvocatiemac.it/tags/comandi-rapidi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Actions</title>
+      <link>https://beta.avvocatiemac.it/tags/actions/</link>
+      <pubDate>Mon, 27 Feb 2023 09:03:20 -0800</pubDate>
+      
+      <guid>https://beta.avvocatiemac.it/tags/actions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
