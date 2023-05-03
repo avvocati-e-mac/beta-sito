@@ -1,8 +1,8 @@
 ---
-title: "Creare la relata notifica in automatico da INI-PEC in Pages"
+title: “Test di articolo programmato"
 date: 2023-05-02T21:02:00-00:00
-PublishDate: 2023-05-02T21:02:00-00:00
-LastMod: 2023-05-02
+PublishDate: 2023-05-03T05:45:00-00:00
+LastMod:
 author: Filippo Strozzi
 slug: Creare-la-relata-notifica-in-automatico-da-INI-PEC
 draft: false
