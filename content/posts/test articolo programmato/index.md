@@ -1,9 +1,8 @@
 ---
-title: “Test di articolo programmato"
-PublishDate: 2023-05-03T05:45:00-00:00
-LastMod:
+title: Test di articolo programmato
+date: 2023-05-04T06:15:00+02:00
 author: Filippo Strozzi
-slug: Creare-la-relata-notifica-in-automatico-da-INI-PEC
+slug: test-articolo-programmato
 draft: false
 showToc: false
 TocOpen: false
