@@ -1,6 +1,6 @@
 ---
 title: Test di articolo programmato
-date: 2023-05-04T008:00:00+02:00
+PublishDate: 2023-05-04T08:00:00+02:00
 author: Filippo Strozzi
 slug: test-articolo-programmato
 draft: false
@@ -11,7 +11,7 @@ cover:
 description: Test di descrizione
 tags: ["Comandi Rapidi", “Pages”, “Relata di notifica a mezzo PEC”, “automazione"]
 ---
-Questo articolo dovrebbe venir pubblicato alle 8 di oggi 03 maggio 2023 - 06:29.
+Questo articolo dovrebbe venir pubblicato alle 8 di domani 4 maggio.
 
 
 Nel video qui sotto ti faccio vedere come utilizzando _Comandi Rapidi_, un _modello di Pages_ ed un po' di _AppleScript_ per creare la relata di una notifica a mezzo PEC scaricando solo i file CSV da INI-PEC.
