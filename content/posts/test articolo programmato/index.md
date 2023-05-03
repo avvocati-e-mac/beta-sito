@@ -1,6 +1,6 @@
 ---
 title: Test di articolo programmato
-date: 2023-05-04T06:15:00+02:00
+date: 2023-05-04T008:00:00+02:00
 author: Filippo Strozzi
 slug: test-articolo-programmato
 draft: false
