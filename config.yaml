@@ -5,7 +5,7 @@ defaultContentLanguage: it
 paginate: 20
 theme: PaperMod
 
-enableRobotsTXT: true
+enableRobotsTXT: false
 buildDrafts: false
 buildFuture: false
 buildExpired: false
